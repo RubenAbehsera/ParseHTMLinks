@@ -12,4 +12,4 @@ Link represents a link (<a href=\"...\">) in an HTML document.
 </br>
 <code>}</code>
 
-This code is part of john calhoun's formation : https://www.calhoun.io/courses
+This code is part of Jon Calhoun's formation : https://www.calhoun.io/courses
